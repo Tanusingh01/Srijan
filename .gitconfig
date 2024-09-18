@@ -1,0 +1,14 @@
+[gui]
+	recentrepo = C:/Users/TANU SINGH/Desktop
+	recentrepo = C:/Users/TANU SINGH/Desktop/Fasion-Cart
+	recentrepo = C:/Users/TANU SINGH/Desktop/lailable
+[user]
+	name = Tanusingh879
+	email = tanusingh7607@gmail.com
+[filter "lfs"]
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
+[core]
+	editor = \"C:\\Users\\TANU SINGH\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\code\" --wait
